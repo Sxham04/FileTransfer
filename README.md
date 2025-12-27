@@ -49,7 +49,7 @@ Open a new terminal for each peer. Use the following format:
 
 To create a working "Ring" network of 5 peers, run these commands:
 
-**Peer 1** `java Peer 5000 5001 5002` 
+**Peer 1** `java Peer 5000 5001 5002` /n
 **Peer 2** `java Peer 5000 5002 5003` 
 **Peer 3** `java Peer 5000 5003 5004` 
 **Peer 4** `java Peer 5000 5004 5005` 
