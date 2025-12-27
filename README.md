@@ -69,7 +69,3 @@ Terminal | Command
 
 * **Neighbor Connection**: If a peer starts before its neighbor, it will show "Cannot connect to peer." This is normal; it will automatically retry every second until the neighbor is online.
 * **Completion**: When a peer prints `Enters merging`, check the folder for the successfully reconstructed file.
-
----
-
-**Would you like me to add a section on how to handle different file types (like images vs. text) in the README?**
