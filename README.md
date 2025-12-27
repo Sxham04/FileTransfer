@@ -1,7 +1,3 @@
-This `README.md` explains how your P2P file transfer system works and how to get it running across multiple terminals.
-
----
-
 # P2P File Transfer System (Java)
 
 A peer-to-peer file sharing application where a **File Owner** splits a large file into smaller 100KB chunks, and **Peers** collaborate to share those chunks until everyone has the full file.
