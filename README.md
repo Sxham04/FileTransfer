@@ -25,7 +25,12 @@ A peer-to-peer file sharing application where a **File Owner** splits a large fi
 Open your terminal in the project directory and compile both files:
 
 ```powershell
-javac FileOwner.java Peer.java
+javac FileOwner.java
+cd peer1
+java Peer1.java
+
+cd peer2
+java Peer2.java
 
 ```
 
